@@ -1,10 +1,10 @@
 <h1>Timetable Generation System</h1>
 <h3>Project Description</h3>
-The project, Timetable Generation System (TTGS), is a web application developed using the Django Framework and an SQLite database.
+The project, Timetable Generation System (TTGS), is a web application developed using the Django Framework and an SQLite database.<br>
 
 The project makes use of a genetic algorithm to satisfy the soft and hard constraints and generate the most optimal timetable. The web application includes a simple authentication-authorization module, and on successfull authentication the user is redirected to the admin dashboard.
 
-On the admin dashboard the user can input the data of the college/university which is required to generate the timetable. The user must add the following details:
+On the admin dashboard the user can input the data of the college/university which is required to generate the timetable. The user must add the following details:<br>
 
 Teachers
 Classrooms
